@@ -16,4 +16,5 @@ Ihre Aufgabe besteht nun darin, die Klasse `Vector` zu programmieren. Die vorhan
 
 Sorgen Sie dafür, dass die vorhandenen Tests mit Ihrer Implementierung problemlos laufen. Wenn die Klasse die Tests nicht besteht, gilt die Aufgabe als nicht bestanden.
 
+Die Lösung muss in das Ihnen zugeordnete GitHub-Projekt eingecheckt werden.
 
