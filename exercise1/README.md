@@ -1,6 +1,6 @@
 # Übung 1
 
-## Ein neuer Job
+## Ein neuer Job im Himalaya
 
 Nachdem Sie erfolgreich das erste Semester hinter sich gebracht haben, sind Sie auf der Suche nach einem Nebenjob. Ihre Ansprüche sind hoch: Sie wollen zum einen gutes Geld verdienen, zum anderen wollen Sie aber auch Dinge für Ihr Studium lernen.
 
