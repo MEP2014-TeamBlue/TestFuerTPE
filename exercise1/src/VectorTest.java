@@ -5,7 +5,7 @@ import org.junit.Test;
 /**
  * Test für die Klasse Vector.
  *
- * @author ICH
+ * @author ICHhh
  */
 public class VectorTest {
 
